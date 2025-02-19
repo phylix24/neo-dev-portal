@@ -1,14 +1,14 @@
 # Neo Dev Portal
 
 Welcome to Neo Developer Portal Repository.
-This is an open-source community effort, so feel free to suggest new topics, add new content, and provide examples wherever you think it might be helpful. All documentation can be edited via GitHub.
+This is an open-source community effort, so feel free to suggest new topics, add new content, and provide examples wherever you think it might be helpful. All documentations can be edited via GitHub.
 
 **How to contribute**  
 Neo Developer Portal is built using [Docusaurus](https://docusaurus.io/) v2.
 
 
 1. Fork the repo
-    1. Setting up your local environment — This is optional.
+    1. Setting up your local environment — This is optional but important 
 2. Make some changes
 3. Submit a PR to `dev` branch
     1. Use pull_to_request template
